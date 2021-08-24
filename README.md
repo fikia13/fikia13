@@ -1,5 +1,5 @@
 # Halo semua! 
-Perkenalkan nama saya **Fiki Aviantono**.\
+Perkenalkan nama saya **Fiki Aviantono**.
 
 <p align="left">
 <a href="https://github.com/fikia13">
